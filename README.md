@@ -82,7 +82,7 @@ The cart provides:
 
 Example workflow:
 
-```text
+   text
 Browse Books
      ↓
 Select Book
