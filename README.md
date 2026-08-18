@@ -82,7 +82,7 @@ The cart provides:
 
 Example workflow:
 
-   text
+```text
 Browse Books
      ↓
 Select Book
@@ -96,7 +96,7 @@ Review Selection
 Calculate Subtotal
      ↓
 Book / Continue
-
+```text
 💰 Price Calculation
 
 The system calculates the price of selected books based on quantity.
